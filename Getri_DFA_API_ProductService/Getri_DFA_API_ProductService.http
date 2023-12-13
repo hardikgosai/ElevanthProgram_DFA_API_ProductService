@@ -1,0 +1,6 @@
+@Getri_DFA_API_ProductService_HostAddress = http://localhost:5279
+
+GET {{Getri_DFA_API_ProductService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
